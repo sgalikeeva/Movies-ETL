@@ -1,6 +1,9 @@
 # Add config.py file to git ignore
 config.py
 
+# Add large CSV file to git ignore
+Resources/ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
